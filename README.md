@@ -8,4 +8,6 @@ This is a C++ Ray Tracer from scratch.
 
 It renders triangles, spheres and triangle-mesh objects in seperate ways using ambient, diffuse and specular shading.
 
+Problems with specular shading of spherical objects. 
+
 Everything except reading the text file including the math calculations was done by me.
