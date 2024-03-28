@@ -11,3 +11,7 @@ It renders triangles, spheres and triangle-mesh objects in seperate ways using a
 Problems with specular shading of spherical objects. 
 
 Everything except reading the text file including the math calculations was done by me.
+
+>make
+>
+>./raytracer scene.xml
