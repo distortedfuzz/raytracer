@@ -15,3 +15,6 @@ Everything except reading the text file including the math calculations was done
 >make
 >
 >./raytracer scene.xml
+
+
+![Car_front](https://github.com/distortedfuzz/raytracer/assets/90470997/630ceace-9720-433b-bafa-9fd9f3d0105f)
