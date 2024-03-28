@@ -1,6 +1,6 @@
-CENG477 HW1
+## CENG477 HW1
 
-CPU Ray-Tracer
+## CPU Ray-Tracer
 
 Score: 77.0/100.0
 
