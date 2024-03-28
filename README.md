@@ -16,6 +16,8 @@ Everything except reading the text file including the math calculations was done
 >
 >./raytracer scene.xml
 
+Sample outputs:
+
 
 
 ![horse_and_mug](https://github.com/distortedfuzz/raytracer/assets/90470997/43f2ca98-1134-4ae4-8e0b-4f5f16fde199)
